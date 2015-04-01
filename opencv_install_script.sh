@@ -63,11 +63,11 @@ case $choice in
 
 	echo "OpenCV installed correctly "
 	
-	break;;
+	break;
 
     No )  
 	echo "You will need sudo privilliges to peform the environment build"
-	break;; 
+	break; 
 
 esac 
 
